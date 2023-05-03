@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>175548358635-l4v8d8m5q9p9bqsifiol7tr6po8v54m3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.175548358635-l4v8d8m5q9p9bqsifiol7tr6po8v54m3</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>175548358635-deuivgn0cdphjuj7hmbrtqfl506ss003.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBVZo4Vpw08o2Bb4CQPzajp2xyG2F1j6oE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>175548358635</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.firebase.coins</string>
+	<key>PROJECT_ID</key>
+	<string>testfirebase-e7b6d</string>
+	<key>STORAGE_BUCKET</key>
+	<string>testfirebase-e7b6d.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:175548358635:ios:3871eb10c9d0740718c3ae</string>
+</dict>
+</plist>

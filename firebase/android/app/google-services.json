@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "175548358635",
+    "project_id": "testfirebase-e7b6d",
+    "storage_bucket": "testfirebase-e7b6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175548358635:android:c0ffe1640234850b18c3ae",
+        "android_client_info": {
+          "package_name": "com.firebase.coins"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175548358635-deuivgn0cdphjuj7hmbrtqfl506ss003.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.firebase.coins",
+            "certificate_hash": "5f4785705b607f07cd56deb94ba6ce91e5d0f9fe"
+          }
+        },
+        {
+          "client_id": "175548358635-jslqmtgvblm5qauhucch643jk94cjdnh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCepf0aYZ_OJ3Yo8k0t4QZLQzyzFSeVNf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175548358635-jslqmtgvblm5qauhucch643jk94cjdnh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

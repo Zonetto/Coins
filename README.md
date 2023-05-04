@@ -1,6 +1,6 @@
 # Digital currency display with currency movement
 
-# using API, Firebase, and WebSocket
+### using API, Firebase, and WebSocket
 
 
 ![photo_2023-05-03 22 40 22](https://user-images.githubusercontent.com/100410170/236028192-5cd83ec2-6451-4249-b3c2-67f054443ae5.jpeg)

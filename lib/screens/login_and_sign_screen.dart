@@ -13,7 +13,7 @@ class Keys {
 }
 
 class LoginAndSignScreen extends StatefulWidget {
-  LoginAndSignScreen({Key? key}) : super(key: key);
+ const LoginAndSignScreen({Key? key}) : super(key: key);
 
   @override
   State<LoginAndSignScreen> createState() => _SignInAndASignUpState();
@@ -33,7 +33,6 @@ class _SignInAndASignUpState extends State<LoginAndSignScreen> {
   String? user;
 
   Future<void> _submitSignUp() async {
-    var provider = Provider.of<Auth>(context, listen: false);
     if (!Keys._formKey2.currentState!.validate()) {
       // Invalid!
       return;
@@ -135,7 +134,6 @@ class _SignInAndASignUpState extends State<LoginAndSignScreen> {
 
   @override
   Widget build(BuildContext context) {
-    var provider = Provider.of<Auth>(context, listen: false);
     return Scaffold(
       backgroundColor: const Color(0xFF5C6BC0),
       appBar: AppBar(

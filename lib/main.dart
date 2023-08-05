@@ -1,11 +1,11 @@
-import 'package:firebase/screens/homeScreen.dart';
+import 'package:firebase/screens/home_screen.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import 'provider/auth.dart';
-import 'screens/loadingScreen.dart';
-import 'screens/loginAndSignScreen.dart';
+import 'screens/loading_screen.dart';
+import 'screens/login_and_sign_screen.dart';
 
 
 

@@ -7,6 +7,10 @@
 - API
 - Websocket
 - Authentication
+
+##### State Management:
+- Provider
+
 <br/>
 
 **SDK**

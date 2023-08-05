@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:intl/intl.dart';
 
 class CoinCard extends StatelessWidget {
-  CoinCard({
+  const CoinCard({
     super.key,
     required this.name,
     required this.symbol,
@@ -12,12 +12,12 @@ class CoinCard extends StatelessWidget {
     required this.changePercentage,
   });
 
-  String name;
-  String symbol;
-  String imageUrl;
-  double price;
-  double change;
-  double changePercentage;
+  final String name;
+  final String symbol;
+  final String imageUrl;
+  final double price;
+  final double change;
+  final double changePercentage;
 
   @override
   Widget build(BuildContext context) {

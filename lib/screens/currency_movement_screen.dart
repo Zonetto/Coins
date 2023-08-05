@@ -6,13 +6,13 @@ import 'package:intl/intl.dart' as intl;
 import 'package:firebase/style/color.dart' as color;
 
 class CurrencyMovement extends StatefulWidget {
-  String name;
-  String image;
-  String symbol;
-  String btcUsdtPrice;
-  var snap;
+  final String name;
+  final String image;
+  final String symbol;
+  final String btcUsdtPrice;
+  final snap;
 
-  CurrencyMovement({
+  const CurrencyMovement({
     Key? key,
     required this.name,
     required this.image,

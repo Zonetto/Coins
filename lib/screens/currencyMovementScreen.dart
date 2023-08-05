@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:web_socket_channel/io.dart';
 
 import 'package:intl/intl.dart' as intl;
-import 'package:firebase/coins/style/color.dart' as color;
+import 'package:firebase/style/color.dart' as color;
 
 class CurrencyMovement extends StatefulWidget {
   String name;

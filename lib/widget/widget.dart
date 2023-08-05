@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:firebase/coins/style/color.dart' as color;
+import 'package:firebase/style/color.dart' as color;
 
 Widget defaultButton({
   required context,

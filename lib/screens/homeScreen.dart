@@ -1,10 +1,10 @@
-import 'package:firebase/coins/provider/auth.dart';
-import 'package:firebase/coins/widget/widget.dart';
+import 'package:firebase/provider/auth.dart';
+import 'package:firebase/widget/widget.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
 import 'cryptocurrencyScreen.dart';
-import 'package:firebase/coins/style/color.dart' as color;
+import 'package:firebase/style/color.dart' as color;
 
 class HomeScreen extends StatefulWidget {
   const HomeScreen({Key? key}) : super(key: key);

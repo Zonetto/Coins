@@ -37,22 +37,12 @@ dependencies:
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^1.0.2
   provider: ^6.0.4
-#  jiffy: ^5.0.0
-#  dart_tensor: '^1.0.2'
-#  image_picker: ^0.8.6
-#  dropdown_search: ^5.0.5
   http: ^0.13.5
   shared_preferences: ^2.0.15
-#  firebase_storage: ^11.0.8
   firebase_auth: ^4.2.1
-#  firebase_messaging: ^14.1.4
-#  awesome_dialog: ^3.0.2
-#  firebase_database: ^10.0.7
   google_sign_in: ^5.4.2
-#  intl:
-#  dio: ^4.0.6
+  intl:
   web_socket_channel: ^2.2.0
-#  get: ^4.6.5
 
 dev_dependencies:
   flutter_test:

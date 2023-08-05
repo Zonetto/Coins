@@ -1,11 +1,13 @@
-import 'package:firebase/coins/provider/auth.dart';
+import 'package:firebase/screens/homeScreen.dart';
 import 'package:firebase_core/firebase_core.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-import 'coins/screens/homeScreen.dart';
-import 'coins/screens/loginAndSignScreen.dart';
-import 'coins/screens/loadingScreen.dart';
+import 'provider/auth.dart';
+import 'screens/loadingScreen.dart';
+import 'screens/loginAndSignScreen.dart';
+
+
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();

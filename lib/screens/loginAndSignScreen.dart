@@ -1,9 +1,9 @@
-import 'package:firebase/coins/widget/widget.dart';
-import 'package:firebase/coins/provider/auth.dart';
+import 'package:firebase/widget/widget.dart';
+import 'package:firebase/provider/auth.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:firebase/coins/style/color.dart' as color;
+import 'package:firebase/style/color.dart' as color;
 
 enum AuthMode { SignUp, Login }
 

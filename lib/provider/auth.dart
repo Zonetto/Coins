@@ -3,7 +3,7 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:http/http.dart' as http;
-import 'package:firebase/coins/style/color.dart' as color;
+import 'package:firebase/style/color.dart' as color;
 
 class Auth extends ChangeNotifier {
   String? _token;

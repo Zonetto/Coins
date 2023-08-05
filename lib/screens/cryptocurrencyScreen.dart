@@ -1,9 +1,9 @@
 import 'dart:convert';
-import 'package:firebase/coins/model/coins.dart';
-import 'package:firebase/coins/screens/currencyMovementScreen.dart';
+import 'package:firebase/model/coins.dart';
+import 'package:firebase/screens/currencyMovementScreen.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:firebase/coins/widget/stateless.dart' as coin;
+import 'package:firebase/widget/stateless.dart' as coin;
 import 'package:http/http.dart' as http;
 
 class CryptocurrencyScreen extends StatefulWidget {

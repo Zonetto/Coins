@@ -3,7 +3,7 @@ import 'package:firebase/widget/widget.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
-import 'cryptocurrencyScreen.dart';
+import 'cryptocurrency_screen.dart';
 import 'package:firebase/style/color.dart' as color;
 
 class HomeScreen extends StatefulWidget {
@@ -16,7 +16,6 @@ class HomeScreen extends StatefulWidget {
 class _HomeScreenState extends State<HomeScreen> {
   @override
   Widget build(BuildContext context) {
-    var provider = Provider.of<Auth>(context, listen: false);
     return Scaffold(
       backgroundColor: Colors.white,
       appBar: AppBar(

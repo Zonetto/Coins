@@ -30,6 +30,6 @@
 
 ---
 ## You can download the application by clicking on the link below 👇 
-[Coins](https://github.com/Zonetto/Flutter_calculating_bmi/files/12270364/Coins.zip)
+[coins-app](https://github.com/Zonetto/Flutter_calculating_bmi/files/12270364/Coins.zip)
 
 
